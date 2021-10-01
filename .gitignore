@@ -65,3 +65,5 @@ vault-password
 old
 vars.local.yml
 certificates.bak
+
+.DS_Store
